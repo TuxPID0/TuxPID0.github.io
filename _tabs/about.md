@@ -13,7 +13,7 @@ Welcome to **TuxPID0** — a platform where I publish hands-on lab writeups, log
 
 ## Profile & Practice
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TuxW.png)](https://tryhackme.com/p/TuxW)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-TuxW-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/TuxW)
 
 ---
 
