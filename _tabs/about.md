@@ -30,6 +30,6 @@ I am actively building my practical and theoretical foundation through a structu
 
 ## Contact & Links
 
-* **Email:** [TuxW@proton.me](mailto:TuxW@proton.me)
+* **Email:** [tuxpid0@proton.me](mailto:tuxpid0@proton.me)
 * **GitHub:** [github.com/TuxPID0](https://github.com/TuxPID0)
 * **TryHackMe:** [tryhackme.com/p/TuxW](https://tryhackme.com/p/TuxW)
