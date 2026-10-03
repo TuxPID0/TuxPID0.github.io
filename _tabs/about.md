@@ -5,9 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I am a high school student and self-taught security learner documenting my technical journey in cybersecurity, with a core focus on Blue Team and SOC operations.
-
-Welcome to **TuxPID0** — a platform where I publish hands-on lab writeups, log analysis notes, and system investigation guides.
+I'm a high school student and self-taught security learner, focusing on Blue Team and SOC operations. This is my blog, where I publish write-ups of the labs I do and notes on what I learn.
 
 ---
 
