@@ -1,5 +1,5 @@
 ---
-title: "TryHackMe: Log Analysis with SIEM (Splunk) — Writeup"
+title: "TryHackMe: Log Analysis with SIEM (Splunk) Writeup"
 date: 2026-09-23 14:00:00 +0300
 categories: [SOC Operations, Log Analysis]
 tags: [tryhackme, splunk, sysmon, auth-log, brute-force, wpscan, persistence]
@@ -183,12 +183,3 @@ WPScan showing up plainly in the User-Agent is about as unambiguous as attributi
 
 ---
 
-## MITRE ATT&CK Mapping
-
-| Attack Phase             | Observed Behavior                                        | MITRE ATT&CK Mapping                               |
-| :----------------------- | :--------------------------------------------------------| :---------------------------------------------------|
-| **Execution**            | Malicious binary executed from `\Temp\` (user-initiated) | **T1204.002** (User Execution: Malicious File)     |
-| **Persistence**          | Scheduled task created on logon                          | **T1053.005** (Scheduled Task)                     |
-| **Privilege Escalation** | `sudo` used to gain root                                 | **T1548.003** (Sudo and Sudo Caching)              |
-| **Persistence**          | Cron job running a Python reverse shell                  | **T1053.003** (Cron)                               |
-| **Credential Access**    | Automated WordPress login brute-forcing via WPScan       | **T1110.001** (Password Guessing)                  |
