@@ -34,7 +34,7 @@ twitter:
 
 social:
   name: TuxPID0
-  email: TuxW@proton.me
+  email: tuxpid0@proton.me
   fediverse_handle:
   links:
     - https://github.com/TuxPID0
@@ -72,7 +72,7 @@ analytics:
 pageviews:
   provider:
 
-# Prefera schema de culori intunecata
+# Dark mode settings
 theme_mode: dark
 
 cdn:
@@ -113,7 +113,7 @@ assets:
     env:
 
 pwa:
-  enabled: true
+  enabled: false
   cache:
     enabled: true
     deny_paths:
@@ -146,7 +146,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
+      comments: false
       toc: true
       permalink: /posts/:title/
   - scope:
