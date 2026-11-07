@@ -12,6 +12,7 @@ I'm a high school student and self-taught security learner, focusing on Blue Tea
 ## Profile & Practice
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-TuxW-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/TuxW)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Sebastian_Stîrlea-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denis-sebastian-stirlea/)
 
 ---
 
@@ -30,4 +31,5 @@ I am actively building my practical and theoretical foundation through a structu
 
 * **Email:** [tuxpid0@proton.me](mailto:tuxpid0@proton.me)
 * **GitHub:** [github.com/TuxPID0](https://github.com/TuxPID0)
+* **LinkedIn:** [Denis Sebastian Stîrlea](https://www.linkedin.com/in/denis-sebastian-stirlea/)
 * **TryHackMe:** [tryhackme.com/p/TuxW](https://tryhackme.com/p/TuxW)
