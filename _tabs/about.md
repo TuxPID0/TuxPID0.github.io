@@ -29,7 +29,7 @@ I am actively building my practical and theoretical foundation through a structu
 
 ## Contact & Links
 
-* **Email:** [tuxpid0@proton.me](mailto:tuxpid0@proton.me)
+* **Email:** [denis.stirlea@proton.me](mailto:denis.stirlea@proton.me)
 * **GitHub:** [github.com/TuxPID0](https://github.com/TuxPID0)
 * **LinkedIn:** [Denis Sebastian Stîrlea](https://www.linkedin.com/in/denis-sebastian-stirlea/)
 * **TryHackMe:** [tryhackme.com/p/TuxW](https://tryhackme.com/p/TuxW)
