@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm a high school student and self-taught security learner, focusing on Blue Team and SOC operations. This is my blog, where I publish write-ups of the labs I do and notes on what I learn.
+I'm a high school student and self-taught security learner focused on Blue Team and SOC operations. Ranked **#29 / 1,627** teams globally in TryHackMe's *Downtime* SOC & Threat Hunting competition. This is my blog, where I publish incident reports, SIEM investigations, PCAP analyses, and notes on what I learn.
 
 ---
 
@@ -20,10 +20,10 @@ I'm a high school student and self-taught security learner, focusing on Blue Tea
 
 I am actively building my practical and theoretical foundation through a structured learning path:
 
-* **SOC Operations:** Working through the *TryHackMe SOC Level 1* path to practice log parsing, ticket triage, and SIEM analysis.
+* **SOC Operations:** Finishing the *TryHackMe SOC Level 1* path to practice log parsing, alert triage, and SIEM analysis (Splunk).
 * **Core Fundamentals:** Completing the *Google Cybersecurity Certificate* (Linux, networking, Python, and SQL basics).
-* **Theory & Concepts:** Preparing for the *CompTIA Security+* exam to validate core security concepts.
-* **Hands-on Certification:** Working toward *HTB CJCA (Certified Junior Cybersecurity Analyst)*, with *HTB CDSA* as the next step after Security+.
+* **Theory & Concepts:** Preparing for the *CompTIA Security+ (SY0-701)* exam to validate core security concepts.
+* **Hands-on Certification:** Advancing toward *HTB CDSA (Certified Defensive Security Analyst)* for practical SOC and incident investigation mastery.
 
 ---
 
