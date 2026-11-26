@@ -2,7 +2,7 @@
 layout: page
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 I'm a high school student and self-taught security learner focused on Blue Team and SOC operations. Ranked **#29 / 1,627** teams globally in TryHackMe's *Downtime* SOC & Threat Hunting competition. This is my blog, where I publish incident reports, SIEM investigations, PCAP analyses, and notes on what I learn.
