@@ -7,6 +7,10 @@
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/denis-sebastian-stirlea/"
 
+- type: tryhackme
+  icon: "fas fa-terminal"
+  url: "https://tryhackme.com/p/TuxW"
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
